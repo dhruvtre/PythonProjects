@@ -6,7 +6,7 @@ The user provides two numbers, and the calculator will perform the four operatio
 The calculator contains the following functions:
 
 1. **add(a, b):** This function takes in two numbers and returns their sum.
-2.** subtract(a, b):** This function takes in two numbers and returns the result of the first number subtracted by the second number.
+2. **subtract(a, b):** This function takes in two numbers and returns the result of the first number subtracted by the second number.
 3. **multiply(a, b):** This function takes in two numbers and returns their product.
 4. **divide(a, b):** This function takes in two numbers and returns the result of the first number divided by the second number.
 
